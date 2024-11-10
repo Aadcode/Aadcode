@@ -123,6 +123,24 @@ I'm a passionate **Backend Developer** with experience in **full-stack developme
         <p>• Efficient development cycle • Published an npm package for input validation</p>
       </td>
     </tr>
+    <tr>
+  <td align="center">
+    <h3>
+      <a href="https://github.com/Aadcode/QA-AI" style="color: inherit; text-decoration: none;">
+        QA-AI 🧠
+      </a>
+    </h3>
+    <p>PDF-based Q&A backend service with AI integration for real-time answers</p>
+    <p>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma Badge"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+      <img src="https://img.shields.io/badge/AI-Model-green?style=for-the-badge" alt="AI Model Badge"/>
+    </p>
+    <p>• Real-time Q&A from uploaded PDF files • WebSocket support for live updates</p>
+  </td>
+</tr>
+
   </table>
 </div>
 
