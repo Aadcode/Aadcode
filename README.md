@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Backend Developer** with experience in **full-stack development**. I love building scalable and maintainable systems, and I'm always learning new things!
+I'm a passionate **Backend Developer**. I love building scalable and maintainable systems, and I'm always learning new things!
 
 - 🔭 Working on: **Expense Sharing App**
 - 🌱 Learning: Advanced backend optimizations and API design
