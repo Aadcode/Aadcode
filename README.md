@@ -31,7 +31,6 @@
 
 I'm a passionate **Backend Developer**. I love building scalable and maintainable systems, and I'm always learning new things!
 
-- 🔭 Working on: **Expense Sharing App**
 - 🌱 Learning: Advanced backend optimizations and API design
 - 💡 Fun Fact: I love coding solutions that **just work** and solve real problems!
 
